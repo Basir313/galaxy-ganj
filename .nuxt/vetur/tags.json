@@ -1,0 +1,26 @@
+{
+  "Carousel": {
+    "description": "Auto imported from components/carousel.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "HomeServices": {
+    "description": "Auto imported from components/homeServices.vue"
+  },
+  "Partner": {
+    "description": "Auto imported from components/partner.vue"
+  },
+  "Sheet": {
+    "description": "Auto imported from components/sheet.vue"
+  },
+  "Story": {
+    "description": "Auto imported from components/story.vue"
+  },
+  "Video": {
+    "description": "Auto imported from components/video.vue"
+  },
+  "Who": {
+    "description": "Auto imported from components/who.vue"
+  }
+}

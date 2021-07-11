@@ -1,0 +1,51 @@
+[
+  {
+    "name": "about-us",
+    "path": "/about-us",
+    "component": "C:\\\\Users\\\\Basirahmad\\\\Videos\\\\project\\\\new Project Galaxy Ganj\\\\nuxtjs\\\\galaxy-ganj\\\\pages\\\\about-us.vue",
+    "chunkName": "pages/about-us",
+    "_name": "_bd99c690"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\Basirahmad\\\\Videos\\\\project\\\\new Project Galaxy Ganj\\\\nuxtjs\\\\galaxy-ganj\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_92400b94"
+  },
+  {
+    "name": "extraction",
+    "path": "/extraction",
+    "component": "C:\\\\Users\\\\Basirahmad\\\\Videos\\\\project\\\\new Project Galaxy Ganj\\\\nuxtjs\\\\galaxy-ganj\\\\pages\\\\extraction.vue",
+    "chunkName": "pages/extraction",
+    "_name": "_ac4d0a7e"
+  },
+  {
+    "name": "partner",
+    "path": "/partner",
+    "component": "C:\\\\Users\\\\Basirahmad\\\\Videos\\\\project\\\\new Project Galaxy Ganj\\\\nuxtjs\\\\galaxy-ganj\\\\pages\\\\partner.vue",
+    "chunkName": "pages/partner",
+    "_name": "_22edc244"
+  },
+  {
+    "name": "processing",
+    "path": "/processing",
+    "component": "C:\\\\Users\\\\Basirahmad\\\\Videos\\\\project\\\\new Project Galaxy Ganj\\\\nuxtjs\\\\galaxy-ganj\\\\pages\\\\processing.vue",
+    "chunkName": "pages/processing",
+    "_name": "_da375826"
+  },
+  {
+    "name": "story",
+    "path": "/story",
+    "component": "C:\\\\Users\\\\Basirahmad\\\\Videos\\\\project\\\\new Project Galaxy Ganj\\\\nuxtjs\\\\galaxy-ganj\\\\pages\\\\story.vue",
+    "chunkName": "pages/story",
+    "_name": "_2f76240b"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Basirahmad\\\\Videos\\\\project\\\\new Project Galaxy Ganj\\\\nuxtjs\\\\galaxy-ganj\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_cd3dc530"
+  }
+]
